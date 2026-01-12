@@ -1,7 +1,7 @@
-# Deadly Party: The deadly party game begins.
-A community Free-for-All Deathmatch & PvE Co-op game server project set in Team Fortress Universe, hosted from 2025 Steam game Open Fortress and Lambda Fortress.
+# Mercs Royale: The Mercenary Royale Begins!
+A community Team-based/Free-for-All & PvE Co-op game server project set in Team Fortress Universe, hosted from Steam game Team Fortress 2 Classic, Open Fortress and Lambda Fortress.
 
-Refer to [Wiki page](https://github.com/DeadlyParty/Deadly-Party/wiki) for details.
+Refer to [Wiki page](https://github.com/Mercs-Royale/Mercs-Royale/wiki) for details.
 
 # Disclaimer
-This project is a solely personal community server project. We are NOT affiliated with Valve Corporation, Get Psyched Games and CoaXioN games in any way.
+This project is a solely personal community server project. We are NOT affiliated with Valve Corporation, EMINOMA, Get Psyched Games and CoaXioN games in any way.
